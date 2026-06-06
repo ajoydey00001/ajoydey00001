@@ -42,9 +42,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 🌐 Connect With Me
 
-- **LinkedIn**: [Add your LinkedIn URL]
-- **Twitter**: [@ajoydey00001](https://twitter.com/ajoydey00001)
-- **Portfolio**: [Add your portfolio website]
+- **LinkedIn**: [[LinkedIn URL](https://www.linkedin.com/in/ajoy-dey-5b9634331/)]
 - **Email**: ajoydey00001@gmail.com
 
 ---
